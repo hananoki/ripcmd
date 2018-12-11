@@ -1,6 +1,6 @@
 # ripcmd
 
-#### RadioLineのプロジェクトファイル（拡張子がrlp）を対象にしたコマンドラインツールです
+#### RadioLineのプロジェクトファイル（拡張子がrip）を対象にしたコマンドラインツールです
 
 - CUEシートを作成します  
 ripcmd make-cue [rip file] (PERFORMER=%name%)
