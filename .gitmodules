@@ -1,0 +1,3 @@
+[submodule "csclilib"]
+	path = csclilib
+	url = git@github.com:hananoki/csclilib.git
